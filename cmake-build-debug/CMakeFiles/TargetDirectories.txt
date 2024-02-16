@@ -1,0 +1,3 @@
+/home/jorgeeder/Documents/UFOPA/COMPILADORES/cosmo/cmake-build-debug/CMakeFiles/caos.dir
+/home/jorgeeder/Documents/UFOPA/COMPILADORES/cosmo/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/jorgeeder/Documents/UFOPA/COMPILADORES/cosmo/cmake-build-debug/CMakeFiles/rebuild_cache.dir
